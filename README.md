@@ -55,7 +55,6 @@ weights during training on CIFAR-10.
 | Metric | Value |
 |---|---|
 | λ Experiments | 3 (low, medium, high) |
-| Peak Sparsity Achieved | 90%+ |
 | Prunable Layers | 4 |
 | CIFAR-10 Classes | 10 |
 
