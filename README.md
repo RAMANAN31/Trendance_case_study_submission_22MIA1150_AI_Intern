@@ -26,7 +26,7 @@ Ramanan G
 |---|---|
 | **Full Name** | Ramanan G |
 | **Roll Number** | 22MIA1150 |
-| **Programme** | M.Tech Integrated Artificial Intelligence |
+| **Programme** | M.Tech Integrated CSE with Business Analytics|
 | **CGPA** | 7.60 / 10.00 |
 | **Status** | Active Student |
 
