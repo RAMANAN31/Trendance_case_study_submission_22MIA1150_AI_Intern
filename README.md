@@ -1,7 +1,7 @@
 ---
 title: "Self-Pruning Neural Network"
 author: "Ramanan G"
-output: html_document
+output: ipynb_document
 ---
 
 # Self-Pruning Neural Network  
